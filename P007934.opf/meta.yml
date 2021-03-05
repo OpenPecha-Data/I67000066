@@ -1,15 +1,16 @@
-id: opecha:P007934
+id: P007934
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W19224
   title: རྟེན་འབྲེལ་ཡིག་རྙིང་།
-  volume:
+  author: ''
+  volumes:
     cf8fb28939be40fba934f7d91efc9d7e:
       image_group_id: I1KG12582
       title: Volume 1 of rten 'brel yig rnying /
       volume_number: 1
       total_pages: 232
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རྟེན་འབྲེལ་ཡིག་རྙིང་།
   author: ''
